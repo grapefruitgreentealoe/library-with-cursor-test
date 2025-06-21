@@ -7,5 +7,6 @@
   "excludeProtected": true,
   "excludeExternals": true,
   "readme": "README.md",
-  "plugin": ["typedoc-plugin-markdown"]
+  "plugin": ["typedoc-plugin-markdown"],
+  "baseUrl": "/library-with-cursor-test/"
 }
