@@ -72,3 +72,19 @@
 - [ ] 패키지 테스트: 새 프로젝트에서 패키지 설치 및 사용 테스트
 - [ ] npm 페이지 확인: 패키지 정보가 올바르게 표시되는지 확인
 - [ ] 버전 업데이트: 새 기능 추가 및 버전 업데이트 테스트
+
+## Docusaurus 기반 문서 사이트 구축 및 마이그레이션
+
+1. Docusaurus 프로젝트 생성
+   - 명령어: `npx create-docusaurus@latest website classic`
+   - 언어: TypeScript 선택
+2. 기존 docs/의 .md 파일을 website/docs/로 복사
+   - 예시: `cp -r docs/* website/docs/`
+3. website 디렉토리로 이동 후 의존성 설치
+   - `cd website && npm install`
+4. 정적 빌드
+   - `npm run build`
+5. Vercel/Netlify 등에서 website/build 디렉토리를 publish directory로 지정해 배포
+6. sidebar, config 등 원하는 대로 커스터마이징
+
+※ 설치/빌드가 오래 걸릴 수 있으니, 네트워크 환경이 좋은 곳에서 진행 권장
