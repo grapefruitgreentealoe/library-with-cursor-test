@@ -8,5 +8,6 @@
   "excludeExternals": true,
   "readme": "README.md",
   "plugin": ["typedoc-plugin-markdown"],
-  "baseUrl": "/library-with-cursor-test/"
+  "basePath": "/library-with-cursor-test/",
+  "githubPages": true
 }
