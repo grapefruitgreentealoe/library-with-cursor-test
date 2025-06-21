@@ -9,5 +9,9 @@
   "readme": "README.md",
   "plugin": ["typedoc-plugin-markdown"],
   "basePath": "/library-with-cursor-test/",
+  "hideGenerator": true,
+  "categorizeByGroup": false,
+  "entryDocument": "README.md",
+  "theme": "markdown",
   "githubPages": true
 }
