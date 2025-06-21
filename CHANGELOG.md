@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.1...v1.0.2) (2025-06-21)
+
+
+### Bug Fixes
+
+* TypeDoc baseUrl 설정 추가 ([343b89e](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/343b89e186c301e66ea378ba01210a2faef4930b))
+* TypeDoc 설정 복원 ([5dbfc5f](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/5dbfc5fdde795c35f6120c3b2a6de4e6b6a0b1d8))
+
 ## [1.0.1](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.0...v1.0.1) (2025-06-21)
 
 
