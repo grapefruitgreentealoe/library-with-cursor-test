@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  build-and-deploy:
+  build-docs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -31,9 +31,10 @@ jobs:
       - name: Generate documentation
         run: npm run docs
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: docs
-          branch: gh-pages
-          clean: true
+      - name: Commit documentation changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs
+          git commit -m "docs: 자동 문서 업데이트" || echo "No changes to commit"
+          git push
