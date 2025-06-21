@@ -1,29 +1,32 @@
-## [1.0.3](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.2...v1.0.3) (2025-06-21)
+## [1.2.3] - 2024-06-10
 
+### 변경사항
+
+- 새로운 기능 추가
+- 버그 수정
+
+## [1.0.3](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.2...v1.0.3) (2025-06-21)
 
 ### Bug Fixes
 
-* GitHub Pages 설정 수정 및 .nojekyll 파일 추가 ([0f6d8ce](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/0f6d8ce265394b4886baa97198e2276990f2bc8a))
+- GitHub Pages 설정 수정 및 .nojekyll 파일 추가 ([0f6d8ce](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/0f6d8ce265394b4886baa97198e2276990f2bc8a))
 
 ## [1.0.2](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.1...v1.0.2) (2025-06-21)
 
-
 ### Bug Fixes
 
-* TypeDoc baseUrl 설정 추가 ([343b89e](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/343b89e186c301e66ea378ba01210a2faef4930b))
-* TypeDoc 설정 복원 ([5dbfc5f](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/5dbfc5fdde795c35f6120c3b2a6de4e6b6a0b1d8))
+- TypeDoc baseUrl 설정 추가 ([343b89e](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/343b89e186c301e66ea378ba01210a2faef4930b))
+- TypeDoc 설정 복원 ([5dbfc5f](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/5dbfc5fdde795c35f6120c3b2a6de4e6b6a0b1d8))
 
 ## [1.0.1](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.0...v1.0.1) (2025-06-21)
 
-
 ### Bug Fixes
 
-* GitHub Actions 워크플로우 및 태스크 문서 업데이트 ([cea8700](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/cea8700cb2bf162bec13075ef8bbc48d234e2c0e))
+- GitHub Actions 워크플로우 및 태스크 문서 업데이트 ([cea8700](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/cea8700cb2bf162bec13075ef8bbc48d234e2c0e))
 
 # 1.0.0 (2025-06-21)
 
-
 ### Features
 
-* 초기 라이브러리 설정 완료 ([57878ff](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/57878ff9bb94958438d5e0771dcc47e1bfaaadcb))
-* 패키지 이름을 스코프가 있는 이름으로 변경 ([24b7ac9](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/24b7ac9e8bc9b04978fbad06907d6a9dfc035e34))
+- 초기 라이브러리 설정 완료 ([57878ff](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/57878ff9bb94958438d5e0771dcc47e1bfaaadcb))
+- 패키지 이름을 스코프가 있는 이름으로 변경 ([24b7ac9](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/24b7ac9e8bc9b04978fbad06907d6a9dfc035e34))
