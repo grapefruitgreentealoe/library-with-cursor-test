@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.3...v1.0.4) (2025-06-21)
+
+
+### Bug Fixes
+
+* docs, blog 경로 워크플로우 경로 수정 ([c9ff2e0](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/c9ff2e0c03bbb771ca080f9570dc5c8c7edaf074))
+
 ## [1.2.3] - 2024-06-10
 
 ### 변경사항
