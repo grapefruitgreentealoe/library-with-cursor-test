@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.2...v1.0.3) (2025-06-21)
+
+
+### Bug Fixes
+
+* GitHub Pages 설정 수정 및 .nojekyll 파일 추가 ([0f6d8ce](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/0f6d8ce265394b4886baa97198e2276990f2bc8a))
+
 ## [1.0.2](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.1...v1.0.2) (2025-06-21)
 
 
