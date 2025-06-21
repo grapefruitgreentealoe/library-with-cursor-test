@@ -6,6 +6,12 @@ on:
   pull_request:
     branches: [main]
 
+# GitHub Actions에 저장소 쓰기 권한 부여
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
 jobs:
   test:
     name: Test
@@ -39,6 +45,8 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          # 태그 푸시를 위한 토큰 설정
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
