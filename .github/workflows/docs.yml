@@ -33,8 +33,8 @@ jobs:
 
       - name: Generate blog post from CHANGELOG
         run: |
-          if [ -f scripts/changelog-to-blog.js ]; then
-            node scripts/changelog-to-blog.js;
+          if [ -f scripts/changelog-to-blog.cjs ]; then
+            node scripts/changelog-to-blog.cjs;
           fi
 
       - name: Commit documentation and blog changes
