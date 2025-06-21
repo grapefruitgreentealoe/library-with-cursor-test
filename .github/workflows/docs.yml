@@ -41,6 +41,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs blog
+          git add website/docs website/blog
           git commit -m "docs: 자동 문서/블로그 업데이트" || echo "No changes to commit"
           git push
