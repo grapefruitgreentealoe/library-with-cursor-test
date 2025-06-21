@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/f4cd6fcd52c6c31d6d6eeabaff729161c6bbffce/src/index.ts#L11)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/5dbfc5fdde795c35f6120c3b2a6de4e6b6a0b1d8/src/index.ts#L11)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/f4cd6fcd52c6c31d6d6eeabaff729161c6bbffce/src/index.ts#L36)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/5dbfc5fdde795c35f6120c3b2a6de4e6b6a0b1d8/src/index.ts#L36)
