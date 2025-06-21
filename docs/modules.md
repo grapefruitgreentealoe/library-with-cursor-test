@@ -1,6 +1,6 @@
-[Library API Documentation - v1.0.1](README.md) / Exports
+[Library API Documentation - v1.0.2](README.md) / Exports
 
-# Library API Documentation - v1.0.1
+# Library API Documentation - v1.0.2
 
 ## Table of contents
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[../Users/namgung-eunseon/Desktop/library/src/index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/343b89e186c301e66ea378ba01210a2faef4930b/src/index.ts#L11)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/0f6d8ce265394b4886baa97198e2276990f2bc8a/src/index.ts#L11)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[../Users/namgung-eunseon/Desktop/library/src/index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/343b89e186c301e66ea378ba01210a2faef4930b/src/index.ts#L36)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/0f6d8ce265394b4886baa97198e2276990f2bc8a/src/index.ts#L36)
