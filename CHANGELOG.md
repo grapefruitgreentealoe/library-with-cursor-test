@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.0...v1.0.1) (2025-06-21)
+
+
+### Bug Fixes
+
+* GitHub Actions 워크플로우 및 태스크 문서 업데이트 ([cea8700](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/cea8700cb2bf162bec13075ef8bbc48d234e2c0e))
+
 # 1.0.0 (2025-06-21)
 
 
