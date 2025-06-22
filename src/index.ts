@@ -3,7 +3,7 @@
  */
 
 /**
- * 간단한 덧셈 함수 예제
+ * 간단한 덧셈 함수
  * @param a 첫 번째 숫자
  * @param b 두 번째 숫자
  * @returns 두 숫자의 합
@@ -28,7 +28,7 @@ export function add(a: number, b: number): number {
 }
 
 /**
- * 간단한 곱셈 함수 예제
+ * 간단한 곱셈 함수
  * @param a 첫 번째 숫자
  * @param b 두 번째 숫자
  * @returns 두 숫자의 곱
