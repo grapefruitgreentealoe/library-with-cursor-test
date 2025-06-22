@@ -5,5 +5,5 @@
     "baseUrl": "."
   },
   "exclude": [".docusaurus", "build"],
-  "include": ["docusaurus.config.ts"]
+  "include": ["./src/**/*", "**/*.ts", "docusaurus.config.ts"]
 }

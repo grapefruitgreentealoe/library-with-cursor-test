@@ -15,6 +15,6 @@
       "*": ["node_modules/*"]
     }
   },
-  "include": ["src/**/*", "tests/**/*"],
+  "include": ["src/**/*", "tests/**/*", "eslint.config.js"],
   "exclude": ["node_modules", "dist"]
 }
