@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.5...v1.0.6) (2025-06-22)
+
+
+### Bug Fixes
+
+* ts include file 추가 ([9e6546b](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/9e6546b8a2cd67887132a53cac7e91d1d0f267ed))
+
 ## [1.0.5](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.4...v1.0.5) (2025-06-22)
 
 
