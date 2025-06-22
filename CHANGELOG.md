@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.4...v1.0.5) (2025-06-22)
+
+
+### Bug Fixes
+
+* docusaurus intro 추가 ([fa8d56a](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/fa8d56a75175c9a75d148254ac043c6ba6d83fc9))
+* typedoc out 위치 수정 ([cf2eae8](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/cf2eae8c3d3c8f77ff924cd4c2667d47e6ddbb99))
+* vercelignore 에 하위 파일 들어가도록 설정 ([b4d66e6](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/b4d66e6318bfa8aafca85d9b935d189f92f64984))
+
 ## [1.0.4](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.3...v1.0.4) (2025-06-21)
 
 
