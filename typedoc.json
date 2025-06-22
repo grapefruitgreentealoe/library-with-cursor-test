@@ -1,6 +1,6 @@
 {
   "entryPoints": ["src/index.ts"],
-  "out": "docs",
+  "out": "website/docs",
   "name": "Library API Documentation",
   "includeVersion": true,
   "excludePrivate": true,
