@@ -1,6 +1,6 @@
-[Library API Documentation - v1.0.2](README.md) / Exports
+[Library API Documentation - v1.0.4](README.md) / Exports
 
-# Library API Documentation - v1.0.2
+# Library API Documentation - v1.0.4
 
 ## Table of contents
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/0f6d8ce265394b4886baa97198e2276990f2bc8a/src/index.ts#L11)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:11](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/cf2eae8c3d3c8f77ff924cd4c2667d47e6ddbb99/src/index.ts#L11)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/0f6d8ce265394b4886baa97198e2276990f2bc8a/src/index.ts#L36)
+[../home/runner/work/library-with-cursor-test/library-with-cursor-test/src/index.ts:36](https://github.com/grapefruitgreentealoe/library-with-cursor-test/blob/cf2eae8c3d3c8f77ff924cd4c2667d47e6ddbb99/src/index.ts#L36)
