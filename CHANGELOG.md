@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.6...v1.0.7) (2025-06-22)
+
+
+### Bug Fixes
+
+* eslint config key오류 수정 ([15e13af](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/15e13af93067ca953a45bb1ff6510c21b14643dc))
+* eslint, ts관련 컴파일에러 수정 ([67f1108](https://github.com/grapefruitgreentealoe/library-with-cursor-test/commit/67f11086bf8b171b8c5fbf7e16491042b13c38a2))
+
 ## [1.0.6](https://github.com/grapefruitgreentealoe/library-with-cursor-test/compare/v1.0.5...v1.0.6) (2025-06-22)
 
 
